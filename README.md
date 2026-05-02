@@ -111,28 +111,6 @@ A passionate developer with hands-on experience in backend development, cloud co
 
 ---
 
-## 💼 Professional Experience
-
-### SystemTron | Cloud Computing Intern
-**August 2025 - September 2025**
-- Deployed and managed cloud-based applications using AWS (EC2, S3)
-- Focused on scalable solutions with performance and resource optimization
-- Automated workflows and monitored system performance for reliability
-
-**Technologies:** AWS (EC2, S3), Cloud Computing, Automation
-
----
-
-### Forage | Software Engineering & Data Simulations
-**September 2024 - November 2024**
-- Built backend systems and data processing workflows using Python
-- Designed RESTful APIs and integrated Kafka for real-world problem solving
-- Applied machine learning models for financial analysis and data processing
-
-**Technologies:** Python, SQL, Kafka, REST APIs, Machine Learning
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
