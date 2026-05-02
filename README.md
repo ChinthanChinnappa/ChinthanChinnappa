@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=800&lines=🚀+Backend+Developer;📊+Data+Engineer;💻+Building+Scalable+Systems;⚡+DSA+Practitioner;🎯+Software+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=800&lines=🚀+Backend+Developer;📊+Data+Engineer;💻+Building+Scalable+Systems;⚡+DSA+Practice)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ChinthanChinnappa&style=flat-square&color=blue)](https://github.com/ChinthanChinnappa)
 [![GitHub Followers](https://img.shields.io/github/followers/ChinthanChinnappa?style=flat-square&color=blue)](https://github.com/ChinthanChinnappa?tab=followers)
@@ -31,19 +31,19 @@ A passionate developer with hands-on experience in backend development, cloud co
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/java.png" alt="Backend"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Backend" width="96"/>
       <br><b>Backend Development</b><br/>Java, Spring Boot, Node.js
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/database.png" alt="Data"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" alt="Data" width="96"/>
       <br><b>Data Engineering</b><br/>Kafka, ETL, Pipelines
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/cloud.png" alt="Cloud"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1995/1995516.png" alt="Cloud" width="96"/>
       <br><b>Cloud Computing</b><br/>AWS, Docker, Kubernetes
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/algorithm.png" alt="DSA"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" alt="DSA" width="96"/>
       <br><b>Problem Solving</b><br/>DSA & System Design
     </td>
   </tr>
