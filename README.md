@@ -39,11 +39,11 @@ A passionate developer with hands-on experience in backend development, cloud co
       <br><b>Data Engineering</b><br/>Kafka, ETL, Pipelines
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1995/1995516.png" alt="Cloud" width="96"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2489/2489564.png" alt="Cloud" width="96"/>
       <br><b>Cloud Computing</b><br/>AWS, Docker, Kubernetes
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" alt="DSA" width="96"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1370/1370947.png" alt="DSA" width="96"/>
       <br><b>Problem Solving</b><br/>DSA & System Design
     </td>
   </tr>
