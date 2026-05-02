@@ -90,6 +90,22 @@
 
 ---
 
+## 💻 Coding Challenge Progress
+
+<div align="center">
+
+| Platform | Profile | Focus |
+|:---|:---|:---|
+| **LeetCode** | [CHINTHAN_CHINNAPPA](https://leetcode.com/u/CHINTHAN_CHINNAPPA/) | 🔴 Medium & Hard Problems |
+| **HackerRank** | Available | Problem Solving |
+| **CodeSignal** | Available | Algorithm Challenges |
+
+*Solving DSA problems daily to master data structures and algorithms!* 🎯
+
+</div>
+
+---
+
 ## 🎯 Goals & Milestones
 
 <div align="center">
@@ -100,6 +116,7 @@
 ├── 🔄 Build 3+ Production-Ready Projects
 ├── 📊 Deep Dive into Data Engineering
 ├── 💼 Land a Backend/Data Engineer Role
+├── 🏆 Reach 100+ LeetCode Problems
 └── 🚀 Contribute to Open Source
 ```
 
@@ -126,6 +143,10 @@
     <td>🌟 Dream</td>
     <td>Senior Software Engineer at a FAANG company</td>
   </tr>
+  <tr>
+    <td>⚡ Energy</td>
+    <td>Best at problem-solving under pressure</td>
+  </tr>
 </table>
 
 ---
@@ -134,10 +155,28 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ChinthanChinnappa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChinthanChinnappa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ChinthanChinnappa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinthanchinnappapt/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/CHINTHAN_CHINNAPPA/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinthanchinnappapt@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChinthanChinnappa)
+
+</div>
+
+---
+
+## 🤝 Open To Opportunities
+
+<div align="center">
+
+✅ **Backend Development** | ✅ **Data Engineering** | ✅ **Freelance Projects**
+
+I'm actively looking for:
+- Internship/Full-time Backend Developer roles
+- Data Engineering positions
+- Open Source Contributions
+- Collaboration on interesting projects
+
+**Feel free to reach out! I'd love to connect.** 🚀
 
 </div>
 
