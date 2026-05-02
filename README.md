@@ -16,41 +16,13 @@
 
 <div align="center">
 
-**Computer Science & Engineering Student** | **Backend Developer** | **Data Engineer Enthusiast**
+**Backend Developer** | **Data Engineer** | **Software Engineer Enthusiast**
 
 A passionate developer with hands-on experience in backend development, cloud computing, and data engineering. I'm focused on building scalable systems and solving real-world problems through code.
 
-📍 **Kodagu, India** | 📧 **chinthanchinnappapt@gmail.com** | 📱 **+91-8105083052**
+📧 **chinthanchinnappapt@gmail.com**
 
 </div>
-
----
-
-## 🎓 Education
-
-<table>
-  <tr>
-    <td><b>Bachelor of Engineering - Information Science & Engineering</b></td>
-    <td align="right"><b>2023 - Present</b></td>
-  </tr>
-  <tr>
-    <td colspan="2">Mangalore Institute of Technology & Engineering (MITE) | CGPA: 8.09</td>
-  </tr>
-  <tr>
-    <td><b>Senior Secondary (12th) - KSEEB</b></td>
-    <td align="right"><b>95.33%</b></td>
-  </tr>
-  <tr>
-    <td colspan="2">Coorg Institute of Pre University College</td>
-  </tr>
-  <tr>
-    <td><b>Secondary School (SSLC) - KSEEB</b></td>
-    <td align="right"><b>93.16%</b></td>
-  </tr>
-  <tr>
-    <td colspan="2">SMS Academy Of Central Education</td>
-  </tr>
-</table>
 
 ---
 
@@ -183,7 +155,7 @@ A passionate developer with hands-on experience in backend development, cloud co
 |:---|:---|:---|:---|
 | **LeetCode** | [CHINTHAN_CHINNAPPA](https://leetcode.com/u/CHINTHAN_CHINNAPPA/) | Medium & Hard Problems | 🔴 Active |
 | **HackerRank** | [chinthanchinnap1](https://www.hackerrank.com/profile/chinthanchinnap1) | Algorithm Challenges | 🔴 Active |
-| **CodeSignal** | [cmonyl73600ajl504at4z4z4iwu](https://codesignal.com/learn/profile/cmonyl73600ajl504at4z4iwu) | Coding Interviews | 🔴 Active |
+| **CodeSignal** | [cmonyl73600ajl504at4z4iwu](https://codesignal.com/learn/profile/cmonyl73600ajl504at4z4iwu) | Coding Interviews | 🔴 Active |
 
 *Solving DSA problems daily to master data structures and build interview-ready skills!* 🎯
 
@@ -201,7 +173,7 @@ A passionate developer with hands-on experience in backend development, cloud co
 | **Shortlisted for SIH 2025** | 2025 | Smart India Hackathon (IoT-based disease detection) |
 | **Winner (2×)** | 2024 | Division-Level Hockey Championship, Mangaluru |
 | **Shortlisted for IDEATHON** | 2025 | Unstop Final Round |
-| **Backend Developer (Volunteer)** | 2025 | Forge Quest Event, MITE |
+| **Backend Developer (Volunteer)** | 2025 | Forge Quest Event |
 | **National-Level Participant** | 2024 | Revels Hockey Tournament, Manipal |
 | **IoT Exhibition Participant** | 2024 | Smart Automatic Sliding Door (ESP8266) |
 
@@ -218,13 +190,13 @@ A passionate developer with hands-on experience in backend development, cloud co
 - ✅ AWS Certified Solutions Architect – Associate (Udemy, 2025)
 
 **Development & Engineering**
-- ✅ Data-Driven Product Backends with Java, Spring Boot & SQL (MITE, 2025)
+- ✅ Data-Driven Product Backends with Java, Spring Boot & SQL (2025)
 - ✅ Prompt Engineering & Programming with OpenAI (Columbia University, 2025)
-- ✅ IoT Essentials: Concepts to Applications (MITE, 2026)
+- ✅ IoT Essentials: Concepts to Applications (2026)
 
 **Leadership & Innovation**
-- ✅ Innovation & Entrepreneurship in the Age of AI (MITE, 2026)
-- ✅ Alumni Technothon Sessions - Lenovo, Manipal Technologies (MITE, 2026)
+- ✅ Innovation & Entrepreneurship in the Age of AI (2026)
+- ✅ Alumni Technothon Sessions - Lenovo, Manipal Technologies (2026)
 
 </div>
 
@@ -309,8 +281,6 @@ A passionate developer with hands-on experience in backend development, cloud co
 [![CodeSignal](https://img.shields.io/badge/CodeSignal-1E90FF?style=for-the-badge&logo=codesignal&logoColor=white)](https://codesignal.com/learn/profile/cmonyl73600ajl504at4z4iwu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinthanchinnappapt@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChinthanChinnappa)
-
-**Phone:** +91-8105083052 | **Email:** chinthanchinnappapt@gmail.com | **Location:** Kodagu, India
 
 </div>
 
