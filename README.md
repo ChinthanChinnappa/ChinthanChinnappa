@@ -1,245 +1,200 @@
-# 👋 Hi, I'm Chinthan Chinnappa P T
+# ⚡ CHINTHAN CHINNAPPA
 
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=CHINTHAN%20CHINNAPPA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Development%20%7C%20AI%20Systems%20%7C%20Data%20Engineering&descAlignY=58&descSize=15" width="100%" alt="Chinthan Chinnappa animated GitHub banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=CHINTHAN%20CHINNAPPA&fontSize=46&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&desc=ENGINEER%20IN%20PROGRESS%20%7C%20BUILDER%20BY%20INSTINCT&descSize=15&descAlignY=58&color=0:050816,50:101B3D,100:182848" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+reliable+backend+systems;Exploring+AI-powered+applications;Learning+Data+Engineering+and+Cloud;Turning+ideas+into+working+projects" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=750&lines=Backend+Engineering+%F0%9F%94%A7;AI+Systems+%26+Intelligent+Agents+%F0%9F%A4%96;Data+Engineering+%26+Cloud+%E2%98%81%EF%B8%8F;Security+%26+Cryptography+%F0%9F%94%90;Building+things+that+actually+work." alt="Animated developer tagline" />
 
 <br/>
 
-<a href="https://github.com/ChinthanChinnappa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/chinthanchinnappapt">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:chinthanchinnappapt@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/ChinthanChinnappa"><img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
+<a href="https://www.linkedin.com/in/chinthanchinnappapt"><img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
+<a href="mailto:chinthanchinnappapt@gmail.com"><img src="https://img.shields.io/badge/CONTACT-050816?style=for-the-badge&logo=gmail&logoColor=00F5FF" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=ChinthanChinnappa&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ChinthanChinnappa&style=flat-square&color=00F5FF&label=PROFILE+VISITORS" alt="Profile visitor counter" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `01 // WHO AM I?`
 
-I'm a Computer Science engineer focused on building practical software solutions across backend development, AI-powered systems, and data engineering.
+```python
+class Chinthan:
+    def __init__(self):
+        self.role = "Computer Science Engineer"
+        self.focus = [
+            "Backend Engineering",
+            "AI Systems",
+            "Data Engineering",
+            "Cybersecurity"
+        ]
+        self.tools = ["Python", "Java", "SQL", "Docker", "AWS"]
+        self.mindset = "Build. Break. Learn. Rebuild."
 
-- 💻 Interested in backend architecture, REST APIs, and scalable applications.
-- 🤖 Exploring AI agents, machine learning, and intelligent data systems.
-- ☁️ Learning cloud technologies, Docker, and distributed systems.
-- 🔐 Working on security-focused projects and reliable data pipelines.
-- 🧩 Enjoy solving problems through Data Structures and Algorithms.
-- 🏑 Two-time division-level hockey championship winner.
+    def current_mission(self):
+        return "Turn complex ideas into reliable software."
+```
 
-> **My goal:** Build software that solves real problems, strengthen my engineering fundamentals, and grow into an engineer capable of designing reliable systems at scale.
+- ⚙️ I enjoy building backend systems, APIs, and practical software projects.
+- 🤖 Exploring AI-powered applications and agent workflows.
+- 🔐 Interested in cryptography, secure systems, and data pipelines.
+- 🧠 Sharpening my problem-solving skills through DSA.
+- 🏑 Outside code: hockey, competition, and a little *Hala Madrid*.
+
+> *Not here to collect technologies. Here to learn how to engineer systems.*
 
 ---
 
-## 🛠️ Tech Stack
+## `02 // THE ARSENAL`
+
+<div align="center">
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql&theme=dark" alt="Programming languages"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js&theme=dark" alt="Programming language icons" />
 
 ### Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask,mongodb,mysql,sqlite,postgres,prisma&theme=dark" alt="Backend technologies and databases"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask,mongodb,mysql,postgres,sqlite,prisma&theme=dark" alt="Backend and database icons" />
 
-### Tools, Cloud & Development
+### Infrastructure & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,vscode,postman&theme=dark" alt="Development tools and cloud technologies"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,vscode,postman&theme=dark" alt="Tools and infrastructure icons" />
 
-### Data & Machine Learning
+</div>
 
-`Pandas` · `NumPy` · `Scikit-learn` · `Data Analysis` · `Machine Learning` · `REST APIs` · `Apache Kafka`
+**Also exploring:** Pandas · NumPy · Scikit-learn · Apache Kafka · REST APIs · Machine Learning · Distributed Systems
 
 ---
 
-## 🔥 Featured Project
+## `03 // PROJECTS IN THE LAB`
 
-### 🛡️ AgentGuard
-
-An AI agent execution tracing and evaluation project focused on making agent workflows easier to inspect, monitor, and debug.
-
-**Technologies:** FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Docker Compose
-
-<a href="https://github.com/ChinthanChinnappa/AgentGuard">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AgentGuard repository"/>
-</a>
-
----
-
-## 💻 Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 VISENTROPY
-
-A vision-based entropy research project exploring the use of video-derived randomness in cryptographic seeding.
-
-**Focus:** Entropy estimation · Cryptography · Secure random generation
+<div align="center">
 
 <a href="https://github.com/submarine-8550/visentropy">
-  <img src="https://img.shields.io/badge/Explore%20Project-238636?style=flat-square&logo=github&logoColor=white" alt="Explore VISENTROPY"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=submarine-8550&repo=visentropy&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=00F5FF" alt="VISENTROPY project card" />
+</a>
+<a href="https://github.com/ChinthanChinnappa/AgentGuard">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChinthanChinnappa&repo=AgentGuard&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=00F5FF" alt="AgentGuard project card" />
 </a>
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+### 🔐 VISENTROPY — Vision-Based Entropy for Secure Cryptographic Seeding
+
+Exploring video-derived entropy as an input to a cryptographic random-seeding pipeline.
+
+`Cryptography` `Entropy Estimation` `SHA-256` `HMAC` `AES-GCM`
+
+[↗ Explore the repository](https://github.com/submarine-8550/visentropy)
+
+### 🛡️ AgentGuard — AI Agent Observability
+
+An AI agent execution tracing and evaluation project intended to make workflows easier to inspect and debug.
+
+`FastAPI` `React` `TypeScript` `PostgreSQL` `Docker`
+
+[↗ Explore AgentGuard](https://github.com/ChinthanChinnappa/AgentGuard)
 
 ### 📊 Credit Risk & Energy Market Analytics
 
-An analytics and machine learning project for examining structured datasets and exploring predictive models.
+A data analytics and machine learning project exploring structured datasets and predictive models.
 
-**Technologies:** Python · Pandas · NumPy · Scikit-learn
-
-<a href="https://github.com/ChinthanChinnappa">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
 ### 🛒 Retail POS with Fraud Detection
 
-A point-of-sale application with backend functionality and fraud-detection features.
+A point-of-sale backend project with fraud-detection functionality.
 
-**Technologies:** Node.js · Express.js · MongoDB
-
-<a href="https://github.com/ChinthanChinnappa">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
+`Node.js` `Express` `MongoDB`
 
 ### 🔄 Secure Data Ingestion Pipeline
 
-A data ingestion workflow designed to retrieve data from APIs and process it for downstream use.
+A pipeline project exploring API ingestion, structured data processing, and reliable workflows.
 
-**Technologies:** Python · REST APIs · SQL · Apache Kafka · Docker
-
-<a href="https://github.com/ChinthanChinnappa">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Student Management System
-
-An application for managing student-related records and operations.
-
-**Technologies:** Java · Spring Boot
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Personal Finance Manager
-
-A Java application project focused on organizing personal finance information and transactions.
-
-**Technologies:** Java
-
-</td>
-</tr>
-</table>
-
-*Explore my [GitHub repositories](https://github.com/ChinthanChinnappa?tab=repositories) for more projects and development work.*
-
----
-
-## 📈 GitHub Statistics
+`Python` `REST APIs` `SQL` `Apache Kafka` `Docker`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChinthanChinnappa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinthanChinnappa&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ChinthanChinnappa&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🧠 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/CHINTHAN_CHINNAPPA/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/chinthanchinnap1">
-  <img src="https://img.shields.io/badge/HackerRank-Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-
-<a href="https://codesignal.com/learn/profile/cmonyl73600ajl504at4z4iwu">
-  <img src="https://img.shields.io/badge/CodeSignal-Profile-3477F6?style=for-the-badge&logo=codesignal&logoColor=white" alt="CodeSignal"/>
+<a href="https://github.com/ChinthanChinnappa?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=050816" alt="Explore all GitHub projects" />
 </a>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Activities
+## `04 // GITHUB TELEMETRY`
 
-- 🏅 **Samsung Solve for Tomorrow:** Top 100 shortlist in 2024; participated in subsequent editions.
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChinthanChinnappa&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9&icon_color=00F5FF&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinthanChinnappa&layout=compact&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9" alt="Most-used programming languages" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=ChinthanChinnappa&hide_border=true&background=050816&ring=00F5FF&fire=FF4D6D&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=ChinthanChinnappa&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub achievement trophies" />
+
+</div>
+
+---
+
+## `05 // THE GRIND`
+
+<div align="center">
+
+<a href="https://leetcode.com/u/CHINTHAN_CHINNAPPA/"><img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.hackerrank.com/profile/chinthanchinnap1"><img src="https://img.shields.io/badge/HackerRank-Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+
+</div>
+
+I believe consistent problem-solving builds the foundation for better engineering. I use coding challenges to strengthen my algorithms, reasoning, and implementation skills.
+
+---
+
+## `06 // ACHIEVEMENTS UNLOCKED`
+
+- 🏅 **Samsung Solve for Tomorrow:** Top 100 shortlist in 2024; participated in later editions.
 - 💡 **Smart India Hackathon 2025:** Shortlisted with an IoT-based disease detection concept.
 - 🏑 **Hockey:** Two-time division-level championship winner.
-- 🏆 **National-level participation:** Revels Hockey Tournament.
-- 🧑‍💻 **Event volunteering:** Backend development volunteer for Forge Quest at MITE.
-- 🔌 **IoT development:** Built a sliding-door project using ESP8266.
+- 🏆 **Revels Hockey Tournament:** National-level tournament participant.
+- 🧑‍💻 **Forge Quest, MITE:** Backend development volunteer.
+- 🔌 **IoT:** Built a sliding-door project using ESP8266.
 
 ---
 
-## 🌱 Currently Learning
+## `07 // CURRENT OBJECTIVES`
 
-- Backend engineering and API design.
-- Data structures and algorithms.
-- AI agents and intelligent application workflows.
-- Data engineering and reliable ingestion pipelines.
-- Cloud deployment, Docker, and distributed systems fundamentals.
+```text
+[ IN PROGRESS ]  Mastering Data Structures & Algorithms
+[ IN PROGRESS ]  Building stronger backend projects
+[ IN PROGRESS ]  Exploring AI agents and data engineering
+[ NEXT LEVEL  ]  Cloud deployment and distributed systems
+[ ALWAYS      ]  Learn something. Ship something.
+```
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, collaborating on meaningful projects, and learning from people building useful technology.
+## `08 // ESTABLISH CONNECTION`
 
 <div align="center">
 
-<a href="https://github.com/ChinthanChinnappa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/chinthanchinnappapt">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:chinthanchinnappapt@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Have+an+interesting+problem%3F;Let's+build+something+useful.;Open+to+learning+and+collaboration." alt="Animated collaboration message" />
+
+<a href="https://github.com/ChinthanChinnappa"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-050816?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
+<a href="https://www.linkedin.com/in/chinthanchinnappapt"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-050816?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
+<a href="mailto:chinthanchinnappapt@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-050816?style=for-the-badge&logo=gmail&logoColor=00F5FF" /></a>
 
 <br/><br/>
 
-### 💬 Build. Learn. Improve. Repeat.
+**`BUILD → TEST → LEARN → REPEAT`**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt="Decorative footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,50:101B3D,100:050816&height=120&section=footer" alt="Animated footer banner" />
 
 </div>
