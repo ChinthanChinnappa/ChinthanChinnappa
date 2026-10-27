@@ -1,8 +1,8 @@
-# ⚡ CHINTHAN CHINNAPPA
+# ⚡ CHINTHAN CHINNAPPA P T 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=CHINTHAN%20CHINNAPPA&fontSize=46&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&desc=ENGINEER%20IN%20PROGRESS%20%7C%20BUILDER%20BY%20INSTINCT&descSize=15&descAlignY=58&color=0:050816,50:101B3D,100:182848" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=CHINTHAN%20CHINNAPPA%20 P%20t&fontSize=46&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&desc=ENGINEER%20IN%20PROGRESS%20%7C%20BUILDER%20BY%20INSTINCT&descSize=15&descAlignY=58&color=0:050816,50:101B3D,100:182848" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=750&lines=Backend+Engineering+%F0%9F%94%A7;AI+Systems+%26+Intelligent+Agents+%F0%9F%A4%96;Data+Engineering+%26+Cloud+%E2%98%81%EF%B8%8F;Security+%26+Cryptography+%F0%9F%94%90;Building+things+that+actually+work." alt="Animated developer tagline" />
 
